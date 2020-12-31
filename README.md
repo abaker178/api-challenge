@@ -2,7 +2,7 @@
 UCSD Data Science Bootcamp - API Homework
 
 ## Purpose
-Build practice and confidence in working with apis, matlibplot, pandas, and Jupyter Notebook. This project is fictional and for academic purposes.
+Build practice and confidence in working with apis, matlibplot, pandas, python, and Jupyter Notebook. This project is fictional and for academic purposes.
 
 ## Premise
 Prove how the weather changes as one moves closer to the equator.

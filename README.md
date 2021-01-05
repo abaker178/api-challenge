@@ -5,7 +5,8 @@ UCSD Data Science Bootcamp - API Homework
 Build practice and confidence in working with apis, matlibplot, pandas, python, and Jupyter Notebook. This project is fictional and for academic purposes.
 
 ## Premise
-Prove how the weather changes as one moves closer to the equator.
+* Examine how the weather changes as one moves closer to or further from the equator.
+* Find potential vacation spots and use the Google Places API to find a hotel nearby.
 
 ## Timeline
 This project will be completed by Jan. 10th, 2020 and will likely not have many updates going forward

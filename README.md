@@ -9,4 +9,4 @@ Build practice and confidence in working with apis, matlibplot, pandas, python, 
 * Find potential vacation spots and use the Google Places API to find a hotel nearby.
 
 ## Timeline
-This project will be completed by Jan. 10th, 2020 and will likely not have many updates going forward
+This project will likely not have many updates going forward
